@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krrish Raj</h1>
-<h3 align="center">Full-Stack Developer | Android & Web | UI/UX Enthusiast</h3>
+<h1 align="center">Hi I'm Krrish Raj :) </h1>
+<h3 align="center">Full-Stack Developer | Web Development | UI/UX Enthusiast</h3>
 
 <p align="center">
   🚀 Building real-world products • 💡 Learning by shipping • 🎨 Design-driven development
@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
+
 
 ---
 
