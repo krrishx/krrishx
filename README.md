@@ -21,15 +21,15 @@
 
 ## 👨‍💻 About Me
 - 🎓 Student at **KIIT University**
-- 💻 Passionate about **Full-Stack Development & Android**
-- ⚡ Love building **AI-powered & automation projects**
-- 🎬 Also into **video editing & creative tech**
+- 💻 Interested in **Full-Stack Development & Android**
+- ⚡ Exploring **AI-powered & automation projects**
+- 🎬 Passionate about **video editing & creative tech**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 🚀 Programming & Development
+### 🚀 Programming
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
@@ -54,18 +54,11 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krrishx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krrishx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krrishx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krrishx&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishx&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishx&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
